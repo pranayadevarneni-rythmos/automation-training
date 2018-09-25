@@ -31,7 +31,7 @@ public class Runner {
 		//SetCreateCustomer(cc);
 		
 		
-		cc.setName("Rythmos");
+		//cc.setName("Rythmos");
 
 	}
 	
